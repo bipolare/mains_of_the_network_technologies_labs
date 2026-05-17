@@ -12,5 +12,5 @@ The folders are named after the lab name and are also numbered.___
 7. Large lab that contain 3 parts:
    * Observe Web Request(1 part)
    * Use FTP Services(2 part)
-   * Use Telnet and SSH
+   * Use Telnet and SSH(3 part)
  
