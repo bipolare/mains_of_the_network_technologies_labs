@@ -1,7 +1,7 @@
 ### NETWORKING ESSENTIALS
 ___This is where the Cisco Packet Tracer labs will be located, and screenshots taken during their execution.___
-___The lab file and screenshots are located in separate folders for this purpose. 
-The folders are named after the lab name and are also numbered.___
+___The lab file and screenshots are located in separate folders for this purpose.___ 
+___The folders are named after the lab name and are also numbered.___
 ***
 1. Packet Tracer - Create a Simple Network 
 2. Observe Data Flow in a LAN
