@@ -3,7 +3,7 @@ ___This is where the Cisco Packet Tracer labs and practice coursework will be lo
 ___The lab and coursework files and screenshots are located in separate folders for this purpose.___ 
 ___The folders are named after the lab/coursework name and are also numbered.___
 ***
-1. Packet Tracer - Create a Simple Network 
+1. Create a Simple Network 
 2. Observe Data Flow in a LAN
 3. Connect to a Web Server
 4. Configure DHCP on a Wireless Router
@@ -13,4 +13,4 @@ ___The folders are named after the lab/coursework name and are also numbered.___
    * Observe Web Request(1 part)
    * Use FTP Services(2 part)
    * Use Telnet and SSH(3 part)
-8. Coursework 
+8. Setting Up a Local Area Network(coursework)
