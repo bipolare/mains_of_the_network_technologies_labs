@@ -13,4 +13,4 @@ ___The folders are named after the lab/coursework name and are also numbered.___
    * Observe Web Request(1 part)
    * Use FTP Services(2 part)
    * Use Telnet and SSH(3 part)
-8. Setting Up a Local Area Network(coursework)
+8. LAN_CONFIGURING(coursework)
